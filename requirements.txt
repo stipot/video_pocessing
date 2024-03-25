@@ -1,0 +1,7 @@
+ipykernel
+pandas
+numpy
+# Video
+opencv-python
+moviepy
+vidstab
