@@ -5,3 +5,7 @@ numpy
 opencv-python
 moviepy
 vidstab
+pytube
+opencv-python-headless
+facenet-pytorch
+timm
