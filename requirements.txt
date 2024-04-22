@@ -8,4 +8,5 @@ vidstab
 pytube
 opencv-python-headless
 facenet-pytorch
+tensorflow
 timm
